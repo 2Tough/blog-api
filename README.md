@@ -2,9 +2,9 @@
 
 > A full-stack web application for creating, editing, and managing blog posts with user authentication. 
 
-![Java](https://img.shields.io/badge/Java-17-orange? style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-18-blue? style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
 ---
