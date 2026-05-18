@@ -1,4 +1,4 @@
-# 📝 BlogAPI - REST API with Spring Boot and React
+# 📝 blog-api - REST API with Spring Boot and React
 
 > A full-stack web application for creating, editing, and managing blog posts with user authentication. 
 
